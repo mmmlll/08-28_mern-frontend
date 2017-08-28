@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/mmmlll/08-28_mern-frontend",
+  "author": "mmmlll <michelle.y.lai@gmail.com>",
+  "license": "MIT"
 }
